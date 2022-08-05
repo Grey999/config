@@ -30,6 +30,7 @@ set mouse=a
 
 " Add numbers to each line on the left-hand side.
 set number
+set relativenumber
 
 "UTF-8 encoding
 set encoding=utf-8
