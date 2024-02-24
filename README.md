@@ -1,6 +1,7 @@
 # config
 
-#GPG
+# GPG
+
 gpg-import files.txt (contains the key)
 
 edit git config with signinkey=$keyid
@@ -9,14 +10,14 @@ check for ssh key with ssh-add-l
 
 reference https://github.com/drduh/YubiKey-Guide
 
-#Vim
+# Vim
 Move everything
 
 move vim-directory into .vim
 
 Pluginstall in vim terminal
 
-#Zsh
+# Zsh
 
 Install oh-my-zsh
 
